@@ -17,7 +17,7 @@ st.html("""
     
     .mobile-glow-bg {
         position: fixed;
-        top: 45%;
+        top: 43%;
         left: 50%;
         transform: translate(-50%, -50%);
         width: 600px;
